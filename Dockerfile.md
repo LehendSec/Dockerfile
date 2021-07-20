@@ -1,7 +1,6 @@
 # Dockerfile
 
-## [ForgeRock AM远程代码执行漏洞 CVE-2021-35464](https://github.com/LehendSec/Dockerfile/tree/main/ForgeRock AM远程代码执行漏洞 CVE-2021-35464)
-
+## ForgeRock AM远程代码执行漏洞 CVE-2021-35464
 ### Dockerfile
 
 ```dockerfile
